@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- Khung giỏ hàng -->
+  <path d="M4,4 L5,4 L7,13 H18 L20,6 H8" fill="none" stroke="#000000" stroke-width="2"/>
+
+  <!-- Tay cầm của giỏ hàng -->
+  <line x1="7" y1="4" x2="9" y2="4" stroke="#000000" stroke-width="2"/>
+  
+  <!-- Bánh xe của giỏ hàng -->
+  <circle cx="9" cy="20" r="2" fill="#000000"/>
+  <circle cx="17" cy="20" r="2" fill="#000000"/>
+  
+  <!-- Dải băng khuyến mãi -->
+  <rect x="3" y="9" width="16" height="4" rx="2" ry="2" fill="#FF5722" />
+  
+  <!-- Chữ trên dải băng -->
+  <text x="11" y="12" font-family="Arial" font-size="4" fill="#FFFFFF" text-anchor="middle">SALE</text>
+</svg>
